@@ -3,8 +3,8 @@ RubySOCKS
 
 Features
 --------
-	- A SOCKS v4 server implemented by Ruby
-	- Support simple firewall (see socks.conf)
+	- A simple SOCKS v4 server
+	- Support simple firewall (see socks.conf for example)
 
 How to use
 ----------
