@@ -5,6 +5,7 @@ Features
 --------
 	- A simple SOCKS v4 server
 	- Support simple firewall (see socks.conf for example)
+	- Support both connect mode and bind mode
 
 How to use
 ----------
